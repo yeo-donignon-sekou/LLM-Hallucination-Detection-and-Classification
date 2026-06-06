@@ -297,7 +297,7 @@ Ce projet constitue ainsi une base solide pour développer des systèmes d’IA 
 
 # 👨‍💻 Auteur
 
-**Yeo Donignon Sékou**
+**YEO Donignon Sékou**
 Master 2 — Ingénierie Mathématique & Data Science
 Université Côte d’Azur
 
